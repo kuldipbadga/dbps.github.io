@@ -1,0 +1,30 @@
+body{
+	
+	background-size: cover;
+
+	background: transparent url(../images/bb.jpg);
+}
+.box{
+
+	width: 500px;
+	height: 600px;
+	padding: 50px;
+	padding-right: 60px;
+	position: absolute;
+	top: 750px;
+	left: 1050px;
+	transform: translate(-95%,-100%);
+	text-align: center;
+	border: double;
+	border-radius: 30px;
+	background-color: #42dff4 ;
+	
+}
+h2{
+	color: black;
+	font-size: 40px;
+}
+p{
+	font-size: 21px;
+	color: black;
+}

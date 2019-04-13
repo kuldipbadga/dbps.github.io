@@ -1,0 +1,77 @@
+body {
+     
+   
+    background: url(../images1/bb.jpg)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 0.9em;
+    line-height: 3.8em;
+  
+    font-family: sans-serif;
+   
+
+}
+.h{
+	height: 50px;
+}
+
+table{
+
+	
+	background-color: #99b3ff;
+		
+	text-align: center;
+	
+	border: 0px solid black;
+
+	opacity: 0.5em;
+	width: 55%;
+
+
+}
+th{
+	text-align: center;	
+	
+	background-color: red;
+
+	color: white;
+}
+tr:nth-child(even)
+
+{
+	background: #d4d6c5; 
+}
+
+tr:nth-child(odd)
+{
+	background: white; 
+}
+td:hover{
+    background-color: white;
+    border-radius: 4px;
+}
+article
+{
+	overflow-x: auto;
+	overflow-y: auto;
+}
+
+
+.main_box{
+
+	width: 500px;
+	height: 580px;
+	border-radius: 5px;
+	padding-top: 5px;
+    background-color: transparent;
+   
+
+	margin-top: 10px;
+	padding-right: 10px;
+	box-shadow: 0px 0px 50px black;
+}
+id{
+
+	width: 60px;
+}
+

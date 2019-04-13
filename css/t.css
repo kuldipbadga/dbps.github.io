@@ -1,0 +1,51 @@
+body {
+     
+   
+    background: url(../images1/bb.jpg)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+ 	line-height: 3.3em;
+  	font-family: sans-serif;
+   
+}
+.h{
+	height: 30px;
+	font-size: 2vw;
+}
+table{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: #99b3ff;
+	text-align: center;
+	border: 0px solid black	;
+	opacity: 0.5em;
+	width: 60%;
+}
+th{
+	text-align: center;	
+	
+	background-color: #91a6c9;
+	font-size: 1em;
+	color: white;
+}
+tr:nth-child(even)
+{
+	font-size: 1em;
+	background: #d4d6c5; 
+}
+
+tr:nth-child(odd)
+{
+	font-size: 1em;
+	background: white; 
+}
+article
+{
+	overflow-x: auto;
+	overflow-wrap: all;
+	overflow-y: auto;
+	text-overflow: all;
+}
+
+
+
